@@ -1,0 +1,18 @@
+[submodule "fsharp/coderetreat"]
+	path = fsharp/coderetreat
+	url = git@github.com:AngeloChecked/coderetreat.git/fsharp/coderetreat
+[submodule "kotlin/coderetreat"]
+	path = kotlin/coderetreat
+	url = git@github.com:AngeloChecked/coderetreat.git/kotlin/coderetreat
+[submodule "rust/coderetreat"]
+	path = rust/coderetreat
+	url = git@github.com:AngeloChecked/coderetreat.git/rust/coderetreat
+[submodule "golang/coderetreat"]
+	path = golang/coderetreat
+	url = git@github.com:AngeloChecked/coderetreat.git/golang/coderetreat
+[submodule "haskell/coderetreat"]
+	path = haskell/coderetreat
+	url = git@github.com:AngeloChecked/coderetreat.git/haskell/coderetreat
+[submodule "typescript/coderetreat"]
+	path = typescript/coderetreat
+	url = git@github.com:AngeloChecked/coderetreat.git/typescript/coderetreat
